@@ -1,0 +1,74 @@
+RWC.index;part;descrip;Gene;log2FC_qRT;log2FC_rnaseq
+1;ST; 1-Cys peroxiredoxin ;Xvis03_203592;0.497777778;1.679446809
+1;ST; BI1-like protein ;Xvis03_206769;0.541111111;0.305234508
+1;ST; Protein STAY-GREEN 1, chloroplastic ;Xvis03_207817;-1.025555556;2.429812852
+1;ST;Serine/threonine-protein kinase SAPK7;Xvis03_216515;0.208888889;0.290851691
+1;ST;Peroxisome biogenesis protein 5;Xvis03_203127;0.572222222;0.098075657
+1;ST;Aquaporin TIP1-1;Xvis03_209435;0.326666667;0.103348262
+1;ST; Ribulose bisphosphate carboxylase small chain, chloroplastic ;Xvis03_223144;0.354444444;0.22986429
+1;ST;serine receptor kinase;Xvis03_211680;0.958888889;0.863399491
+1;ST;Gamma-tubulin complex component 5;Xvis03_204676;0.286666667;0.17496989
+1;NST; 1-Cys peroxiredoxin ;Xvis03_203592;0;0
+1;NST; BI1-like protein ;Xvis03_206769;0;0
+1;NST; Protein STAY-GREEN 1, chloroplastic ;Xvis03_207817;0;0
+1;NST;Serine/threonine-protein kinase SAPK7;Xvis03_216515;0;0
+1;NST;Peroxisome biogenesis protein 5;Xvis03_203127;0;0
+1;NST;Aquaporin TIP1-1;Xvis03_209435;0;0
+1;NST; Ribulose bisphosphate carboxylase small chain, chloroplastic ;Xvis03_223144;0;0
+1;NST;serine receptor kinase;Xvis03_211680;0;0
+1;NST;Gamma-tubulin complex component 5;Xvis03_204676;0;0
+2;ST; 1-Cys peroxiredoxin ;Xvis03_203592;3.31;4.757526414
+2;ST; BI1-like protein ;Xvis03_206769;2.64;3.980619848
+2;ST; Protein STAY-GREEN 1, chloroplastic ;Xvis03_207817;9.706666667;10.88494262
+2;ST;Serine/threonine-protein kinase SAPK7;Xvis03_216515;0.47;1.937386014
+2;ST;Peroxisome biogenesis protein 5;Xvis03_203127;0.365555556;2.346003171
+2;ST;Aquaporin TIP1-1;Xvis03_209435;-1.516666667;0.402595442
+2;ST; Ribulose bisphosphate carboxylase small chain, chloroplastic ;Xvis03_223144;-11.58;-10.0382658
+2;ST;serine receptor kinase;Xvis03_211680;-3.886666667;-4.262183509
+2;ST;Gamma-tubulin complex component 5;Xvis03_204676;-1.736666667;0.521639343
+2;PST; 1-Cys peroxiredoxin ;Xvis03_203592;4.281111111;5.183279737
+2;PST; BI1-like protein ;Xvis03_206769;3.271111111;4.238151064
+2;PST; Protein STAY-GREEN 1, chloroplastic ;Xvis03_207817;10.67222222;11.33716931
+2;PST;Serine/threonine-protein kinase SAPK7;Xvis03_216515;0.952222222;2.072177558
+2;PST;Peroxisome biogenesis protein 5;Xvis03_203127;0.771111111;2.186850238
+2;PST;Aquaporin TIP1-1;Xvis03_209435;0.12;1.078234984
+2;PST; Ribulose bisphosphate carboxylase small chain, chloroplastic ;Xvis03_223144;-9.845555556;-9.765621402
+2;PST;serine receptor kinase;Xvis03_211680;-3.713333333;-5.346247774
+2;PST;Gamma-tubulin complex component 5;Xvis03_204676;-1.371111111;0.216444397
+2;NST; 1-Cys peroxiredoxin ;Xvis03_203592;4.782222222;5.823044811
+2;NST; BI1-like protein ;Xvis03_206769;3.591111111;4.396036396
+2;NST; Protein STAY-GREEN 1, chloroplastic ;Xvis03_207817;9.865555556;11.08588637
+2;NST;Serine/threonine-protein kinase SAPK7;Xvis03_216515;1.098888889;1.823611041
+2;NST;Peroxisome biogenesis protein 5;Xvis03_203127;0.046666667;1.65550975
+2;NST;Aquaporin TIP1-1;Xvis03_209435;0.631111111;1.784678007
+2;NST; Ribulose bisphosphate carboxylase small chain, chloroplastic ;Xvis03_223144;-9.557777778;-8.692668801
+2;NST;serine receptor kinase;Xvis03_211680;-2.67;-4.235216462
+2;NST;Gamma-tubulin complex component 5;Xvis03_204676;0.924444444;0.277684877
+3;ST; 1-Cys peroxiredoxin ;Xvis03_203592;1.38375;3.708540687
+3;ST; BI1-like protein ;Xvis03_206769;3.025555556;4.550372232
+3;ST; Protein STAY-GREEN 1, chloroplastic ;Xvis03_207817;9.388888889;11.9543674
+3;ST;Serine/threonine-protein kinase SAPK7;Xvis03_216515;1.336666667;3.185184433
+3;ST;Peroxisome biogenesis protein 5;Xvis03_203127;0.938888889;3.276034535
+3;ST;Aquaporin TIP1-1;Xvis03_209435;-4.978888889;-3.051923167
+3;ST; Ribulose bisphosphate carboxylase small chain, chloroplastic ;Xvis03_223144;-8.894444444;-8.019406775
+3;ST;serine receptor kinase;Xvis03_211680;-4.208888889;-3.275858446
+3;ST;Gamma-tubulin complex component 5;Xvis03_204676;-1.975694444;0.083970309
+3;PST; 1-Cys peroxiredoxin ;Xvis03_203592;0.673333333;1.613623089
+3;PST; BI1-like protein ;Xvis03_206769;1.696666667;2.605036941
+3;PST; Protein STAY-GREEN 1, chloroplastic ;Xvis03_207817;8.631111111;9.726678979
+3;PST;Serine/threonine-protein kinase SAPK7;Xvis03_216515;0.64;1.913933133
+3;PST;Peroxisome biogenesis protein 5;Xvis03_203127;1.3;2.541759771
+3;PST;Aquaporin TIP1-1;Xvis03_209435;-4.406666667;-4.341577806
+3;PST; Ribulose bisphosphate carboxylase small chain, chloroplastic ;Xvis03_223144;-4.846666667;-4.526146664
+3;PST;serine receptor kinase;Xvis03_211680;-1.098888889;-1.083213368
+3;PST;Gamma-tubulin complex component 5;Xvis03_204676;-1.028888889;0.705768552
+3;NST; 1-Cys peroxiredoxin ;Xvis03_203592;-3.114444444;0.49069127
+3;NST; BI1-like protein ;Xvis03_206769;-2.93;0.158531497
+3;NST; Protein STAY-GREEN 1, chloroplastic ;Xvis03_207817;2.648888889;4.317678622
+3;NST;Serine/threonine-protein kinase SAPK7;Xvis03_216515;-4.478333333;-1.768041998
+3;NST;Peroxisome biogenesis protein 5;Xvis03_203127;-1.944444444;0.149425865
+3;NST;Aquaporin TIP1-1;Xvis03_209435;-4.692777778;-1.834678126
+3;NST; Ribulose bisphosphate carboxylase small chain, chloroplastic ;Xvis03_223144;-2.982777778;0.169396842
+3;NST;serine receptor kinase;Xvis03_211680;-1.806666667;0.567359738
+3;NST;Polyubiquitin 10 *all four primer pair suggestions had 3G/C at ends*;Xvis03_201354;0.525555556;0.432945121
+3;NST;Gamma-tubulin complex component 5;Xvis03_204676;-1.309444444;0.097370896
